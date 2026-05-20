@@ -1,0 +1,97 @@
+# Privacy Policy For Neon Brick Rush
+
+Effective date: [Add date before publishing]
+
+Neon Brick Rush is a mobile game created by Moe Studio. This Privacy Policy explains what information the game collects, how it is used, and how users can contact us.
+
+Contact email: moestudio.apps@gmail.com
+
+## Information We Collect
+
+The current game stores gameplay progress locally on the user's device, such as:
+
+- high score
+- coins
+- best wave
+- total bricks broken
+- games played
+- sound setting
+- vibration setting
+
+This local gameplay data is stored on the device and is used only to make the game work properly.
+
+## Information We Do Not Collect Directly
+
+Neon Brick Rush does not directly collect:
+
+- name
+- email address
+- phone number
+- precise location
+- contacts
+- photos
+- camera data
+- microphone data
+- account login information
+- user-generated content
+
+## Ads
+
+Neon Brick Rush may show ads to support the game.
+
+The planned ad provider is Unity Ads. Unity Ads may collect or process certain device and advertising information to show ads, measure ad performance, prevent fraud, and comply with legal requirements.
+
+Users can learn more about Unity's privacy practices here:
+
+https://unity.com/legal/privacy-policy
+
+Rewarded ads in Neon Brick Rush are optional. Users may choose whether to watch a rewarded ad in exchange for an in-game reward. The game remains playable without watching rewarded ads.
+
+## Analytics
+
+The current game does not include a separate analytics SDK.
+
+If analytics are added later, this Privacy Policy will be updated before release or before the updated version is submitted to app stores.
+
+## Children's Privacy
+
+Neon Brick Rush is intended for a general audience and is not specifically directed to children.
+
+We do not knowingly collect personal information from children. If you believe a child has provided personal information through the game, please contact us at moestudio.apps@gmail.com.
+
+## Data Sharing
+
+We do not sell personal information.
+
+If ads are enabled, the ad provider may process information according to its own privacy policy and applicable laws.
+
+## Data Retention
+
+Local gameplay progress remains on the user's device until the user deletes the app, clears app data, or resets progress inside the game.
+
+## User Choices
+
+Users can:
+
+- reset game progress inside the app
+- delete the app to remove local app data
+- choose not to watch rewarded ads
+- manage advertising privacy settings through their device settings
+
+## Third-Party Services
+
+The game may use the following third-party service:
+
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+If additional third-party services are added later, this policy will be updated.
+
+## Changes To This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on the published Privacy Policy page.
+
+## Contact
+
+For privacy questions or support, contact:
+
+moestudio.apps@gmail.com
