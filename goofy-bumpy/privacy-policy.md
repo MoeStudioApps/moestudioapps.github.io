@@ -83,4 +83,4 @@ For privacy questions regarding Goofy Bumpy: Arena Mayhem, contact:
 
 **MoeStudio**
 
-Email: MoeStudio.Apps@gmail.com  
+Email: MoeStudio.Apps@gmail.com
